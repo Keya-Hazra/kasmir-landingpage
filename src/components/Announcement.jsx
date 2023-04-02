@@ -3,7 +3,7 @@ import { BsFillEnvelopeFill, BsFillTelephoneFill } from "react-icons/bs";
 
 const Announcement = () => {
 	return (
-		<div className="flex px-10 py-1 font-semibold text-white bg-green-500">
+		<div className="flex px-10 py-1 font-semibold text-white bg-[#00b4d8]">
 			<div className="flex space-x-4">
 				<div className="flex space-x-2">
 					<span className="mt-1 text-sm font-semibold ">
@@ -15,7 +15,7 @@ const Announcement = () => {
 					<span className="mt-1 text-sm font-semibold ">
 						<BsFillEnvelopeFill size={12} />
 					</span>
-					<span className="text-sm font-semibold font-norma">
+					<span className="text-sm font-semibold">
 						info@tripncare.com
 					</span>
 				</div>
