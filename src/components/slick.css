@@ -1,0 +1,46 @@
+.button__bar {
+  display: inline-block;
+  vertical-align: middle;
+  margin: auto;
+  padding: 0;
+  background: transparent;
+  border-radius: 40px;
+  width: 150px;
+  text-align: center;
+}
+
+.button__bar li {
+  list-style: none;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 8px ;
+  padding: 8px;
+}
+
+.button__bar li button {
+  border: none;
+  background: #808080;
+  color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 14px;
+  width: 14px;
+  border-radius: 7.5px;
+}
+
+.button__bar li.slick-active button {
+  background-color: #006600;
+}
+
+.button__bar li button:hover,
+.button__bar li button:focus {
+  background: #006600;
+  outline: 0;
+}
+
+.slick-slide img {
+  border: 5px solid #fff;
+  display: block;
+  margin: auto;
+}
+
