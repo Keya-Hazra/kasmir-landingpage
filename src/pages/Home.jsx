@@ -1,11 +1,12 @@
 import React from "react";
 import Announcement from "../components/Announcement";
 import Navbar from "../components/Navbar";
-// import SliderPage from "../components/SliderPage";
 import Faq from "./Faq";
 import Footer from "./Footer";
 import Hero from "./Hero";
 import Location from "./Location";
+import FullSlider from "./FullSlider";
+import SliderPage from "../components/SliderPage";
 
 const Home = () => {
 	return (
@@ -13,8 +14,9 @@ const Home = () => {
 			<Announcement />
 			<Navbar />
 			<Hero />
-			{/* <SliderPage /> */}
-			<Location />
+			{/* <FullSlider /> */}
+			{/* <Location /> */}
+			<SliderPage/>
 			<Faq />
 			<Footer />
 		</div>

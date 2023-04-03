@@ -9,17 +9,17 @@ const Hero = () => {
 					<div className="relative space-y-6 text-white md:mt-6 lg:mt-20 xl:mt-36">
 						<h1 className="mb-10 text-3xl font-semibold md:text-4xl">
 							{/* <Typist> */}
-							<p>
-								If you want to travel safe <br /> Be with{" "}
-								<a
-									href="https://www.tripncare.com/"
-									className="font-bold shadow-2xl hover:text-pink-700 hover:underline"
-								>
-									{" "}
-									Tripncare
-								</a>
-								.
-							</p>
+								<p>
+									If you want to travel safe <br /> Be with{" "}
+									<a
+										href="https://www.tripncare.com/"
+										className="font-bold shadow-2xl hover:text-pink-700 hover:underline"
+									>
+										{" "}
+										Tripncare
+									</a>
+									.
+								</p>
 							{/* </Typist> */}
 						</h1>
 						<div className="curve"></div>

@@ -13,28 +13,28 @@
   list-style: none;
   cursor: pointer;
   display: inline-block;
-  margin-top: 8px ;
-  padding: 8px;
+  margin: 0 3px;
+  padding: 0;
 }
 
 .button__bar li button {
   border: none;
-  background: #808080;
+  background: #b1bec7;
   color: transparent;
   cursor: pointer;
   display: block;
-  height: 14px;
-  width: 14px;
+  height: 10px;
+  width: 10px;
   border-radius: 7.5px;
 }
 
 .button__bar li.slick-active button {
-  background-color: #006600;
+  background-color: #f7931d;
 }
 
 .button__bar li button:hover,
 .button__bar li button:focus {
-  background: #006600;
+  background: #f7931d;
   outline: 0;
 }
 
@@ -43,4 +43,3 @@
   display: block;
   margin: auto;
 }
-

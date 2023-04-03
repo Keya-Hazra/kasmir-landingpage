@@ -17,45 +17,39 @@ export const agra = [
 	{
 		id: 1,
 		img: "image/slider/indiagate.jpeg",
-		location: "India Gate",
+		location: "Srinagar (Kashmir)",
 		description:
-			"At the centre of New Delhi stands the 42 m high India Gate, an “Arc-de-Triomphe” like archway in the middle of a crossroad. Almost similar to its French counterpart, it commemorates the 70,000 Indian soldiers who lost their lives fighting for the British Army during the World War I.",
-	},
+			"Srinagar, city, summer capital of Jammu and Kashmir union territory (Jammu is the winter capital), northern India, situated in the Kashmir region of the Indian subcontinent. The city lies along the banks of the Jhelum River at an elevation of 5,200 feet (1,600 metres) in the Vale of Kashmir."},
 	{
 		id: 2,
 		img: "image/slider/redfort.jpeg",
-		location: "Red fort in Delhi",
+		location: "Gulmarg (Kashmir)",
 		description:
-			"Delhi, city and national capital territory, north-central India. The city of Delhi actually consists of two components: Old Delhi, in the north, the historic city. ",
-	},
+		"Gulmarg is a town nestled in the Pir Panjal range of the Western Himalayas at an altitude of 8,690 feet above sea level. Literally translated as 'Meadow of Flowers' it is encased by glimmering snow peaked alps, verdant green pastures, colorful meadows, deep valleys and pine covered slopes."},
 	{
 		id: 3,
 		img: "image/slider/hawamahal.jpeg",
-		location: "Hawa Mahal (Palace of the Winds) Jaipur",
+		location: "Pahalgam (Kashmir)",
 		description:
-			"Founded in AD 1727 by Maharaja Sawai Jai Singh II, Jaipur, the capital of Rajasthan is popularly known as the Pink City. With broad avenues and spacious gardens, the city is steeped in history and culture. ",
-	},
+		"Pahalgam is famous for its scenic beauty and is the jewel of the picturesque Liddar valley located in the high Himalayas. It provides an ideal setting for activities like hiking, trekking, and fishing. It is also the starting point of the annual pilgrimage to the holy cave of Amarnath."},
 	{
 		id: 4,
 		img: "image/slider/jaypur.jpg",
-		location: "Amber Fort",
+		location: "Sonmarg (Kashmir)",
 		description:
-			"Agra is a city offering a discovery of the beautiful era. Agra has a rich history, reflected in its numerous monuments dotted in and around the city. ",
-	},
+			"Sonmarg has ancient importance because it was a gateway on the ancient Silk Road that connects Kashmir with China. It provides as a base camp for Ladakh and is militarily very important for India. In the winter, Sonamarg becomes a valley covered in white gold thereby living up to its name."},
 	{
 		id: 5,
 		img: "image/slider/jaypur.jpg",
-		location: "Jantar Mantar ",
+		location: "Doodhpathri (Kashmir)",
 		description:
-			"Delhi, city and national capital territory, north-central India. The city of Delhi actually consists of two components: Old Delhi, in the north, the historic city. ",
-	},
+			"Doodhpathri (translation; Valley of Milk) is a tourist destination and hill station in the State of Jammu and Kashmir.It is located in Budgam district of Jammu & Kashmir. Situated at an altitude of 8,957 ft from sea level, and located at a distance of 42 km from state summer capital Srinagar and 22 km from district headquarter Budgam."},
 	{
 		id: 6,
 		img: "image/slider/jaypur.jpg",
-		location: "Hawa Mahal",
+		location: "Dal-Lake (Kashmir)",
 		description:
-			"Founded in AD 1727 by Maharaja Sawai Jai Singh II, Jaipur, the capital of Rajasthan is popularly known as the Pink City. With broad avenues and spacious gardens, the city is steeped in history and culture. ",
-	},
+			"Dal is a lake in Srinagar, the summer capital of Jammu and Kashmir, India. It is an urban lake, which is the second largest in the union territory of Jammu and Kashmir. It is integral to tourism and recreation in Kashmir and is named the 'Lake of Flowers', 'Jewel in the crown of Kashmir' or 'Srinagar's Jewel'."},
 	// {
 	// 	id: 3,
 	// 	img: "image/slider/jaypur.jpg",
@@ -65,6 +59,38 @@ export const agra = [
 	// },
 
 ];
+
+export const howItWorkData = [
+	{
+	  title: 'Fast and Simple Onboarding',
+	  description:
+		'A dedicated CPA is assigned and will work with you to securely connect to your bank accounts and will get you set-up. If you are currently using applications that you like, no worries. Our API technology can integrate with any platform.',
+	  buttonText: 'Get Started',
+	  img: 'business3.png',
+	},
+	{
+	  title: 'Automatically download transactions from your bank, track expenses with ease and stay on top of your cash flow at all times',
+	  description:
+		'You will have 24/7 access to your financial data. Your dedicated CPA will handle your accounting needs in real-time and will also provide guidance on cash management.',
+	  buttonText: 'Get Started',
+	  img: 'image.png',
+	},
+	{
+	  title: 'Connect your existing accounting applications',
+	  description:
+		'Your CPA will create a dedicated financial dashboard customized to assist you in making critical decisions for your business. Your dashboard is accessible via computer or mobile device. You will also receive intuitive financial reports as oftner as you like (daily, weekly, monthly, quarterly or annually) with industry and key performance indicators relevant to your business. Your CPA can also assist with performing what-if scenarios, adding value to your business vision.',
+	  buttonText: 'Get Started',
+	  img: 'business2.png',
+	},
+	{
+	  title: 'See how your business is performing with intuitive analytics and financial insight',
+	  description:
+		'View your potential annual tax obligation in real-time. Your CPA will schedule periodic meetings to establish and go over your tax plan. No longer will you have to worry or hassle about providing tax information around the tax deadline. Your tax returns will be prepped and ready to be filed months prior to the deadline.',
+	  buttonText: 'Get Started',
+	  img: 'image2.png',
+	},
+  ];
+  
 
 export const faqData= [
 	{
